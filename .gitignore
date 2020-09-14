@@ -5,7 +5,7 @@
 /vendor
 /logs/access.log
 /logs/error.log
-#!.env
+.env
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
