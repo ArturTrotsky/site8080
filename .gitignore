@@ -6,8 +6,6 @@
 /logs/access.log
 /logs/error.log
 #!.env
-.env
-.env.backup
 .phpunit.result.cache
 Homestead.json
 Homestead.yaml
